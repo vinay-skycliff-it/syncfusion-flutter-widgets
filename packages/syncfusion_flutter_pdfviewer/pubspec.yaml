@@ -37,19 +37,19 @@ dependencies:
   device_info_plus: ^10.1.0
   intl: ^0.18.0
 
-  syncfusion_pdfviewer_platform_interface: ^22.1.35
+  syncfusion_pdfviewer_platform_interface: ^26.1.35
 
-  syncfusion_pdfviewer_web: ^22.1.35
+  syncfusion_pdfviewer_web: ^26.1.35
 
-  syncfusion_pdfviewer_macos: ^22.1.35
+  syncfusion_pdfviewer_macos: ^26.1.35
   
-  syncfusion_pdfviewer_windows: ^22.1.35
+  syncfusion_pdfviewer_windows: ^26.1.35
 
-  syncfusion_flutter_core: ^22.1.35
+  syncfusion_flutter_core: ^26.1.35
 
-  syncfusion_flutter_pdf: ^22.1.35
+  syncfusion_flutter_pdf: ^26.1.35
 
-  syncfusion_flutter_signaturepad: ^22.1.35
+  syncfusion_flutter_signaturepad: ^26.1.35
     
 
   url_launcher: ^6.1.0
